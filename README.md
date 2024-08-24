@@ -45,8 +45,8 @@ We provide a wide range of services tailored to meet your business needs:
 
 Ready to elevate your digital marketing efforts? Reach out for more information or to schedule a consultation:
 
-- **Email**: [your-email@example.com]
-- **Phone**: [Your Phone Number]
+- **Email**: email@example.com
+- **Phone**: +91 123-456-7891
 
 ## License
 
